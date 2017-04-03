@@ -1,0 +1,7 @@
+xstejs24	100%
+xstane34	100%
+xmatec00	100%
+xstejs24(vedoucí týmu) - Uložení a zpracování multimediálních dat, částečná práce na zpracováních temporální části, obsluha databáze a tvorba dotazů 
+xstane34 - Částečná práce na GUI aplikace, rozdělení jednotlivých souborů, uložení a zpracování temportálních dat, nápověda
+xmatec 34 - GUI aplikace, uložení a zpracování prostorových dat(kreslení, zvýrazňování...)
+Na testování se podíleli všichni členové, jak na jednotlivých částí tak na aplikaci jako celku.

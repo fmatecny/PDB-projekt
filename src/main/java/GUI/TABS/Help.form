@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Noto Sans" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Souhnn&#xe9; informace"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="50" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel7" min="-2" pref="116" max="-2" attributes="0"/>
+                  <Component id="jScrollPane2" min="-2" pref="900" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="51" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel7" min="-2" pref="36" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane2" min="-2" pref="550" max="-2" attributes="0"/>
+              <EmptySpace pref="72" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel7">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Noto Sans" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="N&#xe1;pov&#x11b;da"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <Properties>
+        <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="null"/>
+        </Property>
+        <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="null"/>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt; &lt;h1&gt;Popis aplikace&lt;/h1&gt; &lt;p&gt;&lt;b&gt;Metro Accidents Database&lt;/b&gt; je syst&#xe9;m, kter&#xfd; umo&#x17e;&#x148;uje evidovat mimo&#x159;&#xe1;dnosti ve stanic&#xed;ch jednotliv&#xfd;ch linek metra a tyto jednotliv&#xe9;  z&#xe1;znamy n&#xe1;sledn&#x11b; jednodu&#x161;e vyhled&#xe1;vat a vytv&#xe1;&#x159;et z nich statistick&#xe9; p&#x159;ehledy. Sou&#x10d;&#xe1;st&#xed; aplikace je grafick&#xe9; rozhran&#xed; pro editaci mapy s&#xed;t&#x11b;  metra zahrnuj&#xed;c&#xed; m&#x11b;stsk&#xe9; obvody, linky metra a jejich stanice.&lt;/p&gt;  &lt;h1&gt;Ovl&#xe1;d&#xe1;n&#xed;&lt;/h1&gt; &lt;h1&gt;Popis aplikace&lt;/h1&gt; &lt;p&gt;Ovl&#xe1;d&#xe1;n&#xed; aplikace je rozd&#x11b;leno do n&#xe1;sleduj&#xed;c&#xed;ch z&#xe1;lo&#x17e;ek.&lt;/p&gt; &lt;h2&gt;P&#x159;ehled incident&#x16f;&lt;/h2&gt; &lt;h3&gt;Vyhled&#xe1;v&#xe1;n&#xed; ud&#xe1;lost&#xed;&lt;/h3&gt; &lt;p&gt;Na z&#xe1;lo&#x17e;ce Vyhled&#xe1;v&#xe1;n&#xed; je mo&#x17e;n&#xe9; prov&#xe9;st vyhled&#xe1;v&#xe1;n&#xed; v lev&#xe9;m panelu dle dostupn&#xfd;ch atribut&#x16f; incidentu. V prav&#xe9; &#x10d;&#xe1;sti se pak zobraz&#xed; relevantn&#xed; v&#xfd;sledky zadan&#xe9;mu dotazu. Po kliknut&#xed; na vyhledan&#xfd; z&#xe1;znam je mo&#x17e;n&#xe9; dan&#xfd; incident prohl&#xed;&#x17e;et a editovat, a to jak jeho atributy, tak fotografie k n&#x11b;mu p&#x159;i&#x159;azen&#xe9;.  Po kliknut&#xed; na p&#x159;&#xed;slu&#x161;n&#xe9; tla&#x10d;&#xed;tko u obr&#xe1;zku se zobraz&#xed; podobn&#xe9; obr&#xe1;zky ke zvolen&#xe9;mu.&lt;/p&gt;  &lt;p&gt;S prodeveden&#xfd;m dotazem se rovn&#x11b;&#x17e; aktualizuje vyobrazen&#xe1; mapa, kter&#xe1; zachycuje s&#xed;&#x165; metra a zv&#xfd;raz&#x148;uje vyhled&#xe1;van&#xe9; stanice, ve kter&#xfd;ch do&#x161;lo k incidentu.&lt;/p&gt;  &lt;p&gt;V doln&#xed; &#x10d;&#xe1;sti obrazovky lze naopak tla&#x10d;itkem Vlo&#x17e;it incident  zadat novou ud&#xe1;lost do datab&#xe1;ze.&lt;/p&gt;  &lt;p&gt;V prav&#xe9;m horn&#xed;m rohu okna je vyobazena tabulka Statistika, kter&#xe1; nab&#xed;z&#xed; komplexn&#xed; statistick&#xfd; p&#x159;ehled o stanic&#xed;ch, link&#xe1;ch, obvodech a incidentech.&lt;/p&gt;  &lt;h3&gt;Souhrny&lt;/h3&gt; &lt;p&gt;Tato z&#xe1;lo&#x17e;ka nab&#xed;z&#xed; podrobn&#x11b;j&#x161;&#xed; statistiky k u&#x17e;ivatelem zvolen&#xe9; stanici, lince nebo obvodu. Sou&#x10d;&#xe1;st&#xed; p&#x159;ehledu je mapa, kter&#xe1; p&#x159;ehledn&#x11b; interpretuje s&#xed;&#x165; metra se zv&#xfd;razn&#x11b;n&#xfd;mi komponenty, kter&#xe9; jsou filtrov&#xe1;ny.&lt;/p&gt;  &lt;h2&gt;Mapov&#xe9; podklady&lt;/h2&gt; &lt;p&gt;Mapa slou&#x17e;&#xed; pro vytvo&#x159;en&#xed; s&#xed;t&#x11b; metra a jej&#xed; vznik nutn&#x11b; p&#x159;edch&#xe1;z&#xed; zad&#xe1;v&#xe1;n&#xed; incident&#x16f; do DB. Umo&#x17e;&#x148;uje jednotliv&#xe9; prvky s&#xed;t&#x11b; metra vkl&#xe1;dat,  modifikovat a mazat, a to v&#x161;e intuitivn&#xed;m zp&#x16f;sobem pomoc&#xed; grafick&#xe9;ho rozhran&#xed;.&lt;/p&gt;  &lt;h3&gt;Re&#x17e;im vkl&#xe1;d&#xe1;n&#xed;&lt;/h3&gt; &lt;p&gt;P&#x159;i vkl&#xe1;d&#xe1;n&#xed; je dod&#x17e;ov&#xe1;na integrita jednotliv&#xfd;ch prvk&#x16f;, co&#x17e; znamen&#xe1;, &#x17e;e pokud chceme nakreslit linku, je nutn&#xe9; ji kreslit do obvodu a stejn&#x11b; tak u stanice, kter&#xe1; mus&#xed; le&#x17e;et na lince. U&#x17e;ivatel si vybere, kterou komponentu chce vlo&#x17e;it, vybere barvu a stistkem tla&#x10d;&#xed;tka na map&#x11b; a n&#xe1;sledn&#xe9;m t&#xe1;hnut&#xed;m my&#x161;i (v p&#x159;&#xed;pad&#x11b; linek a obvod&#x16f;) m&#x16f;&#x17e;e kreslit. Pro potvrzen&#xed; a vlo&#x17e;en&#xed; nakreslen&#xe9; komponenty je nutn&#xfd; stistk prav&#xe9;ho tla&#x10d;&#xed;tka my&#x161;i a zad&#xe1;n&#xed; jm&#xe9;na.&lt;/p&gt; &lt;h3&gt;Re&#x17e;im maz&#xe1;n&#xed;&lt;/h3&gt; &lt;p&gt;Aplikace umo&#x17e;&#x148;uje tak&#xe9; maz&#xe1;n&#xed; prvk&#x16f;, kter&#xe9; je mo&#x17e;n&#xe9; prov&#xe9;zt v &#x159;e&#x17e;imu &#xfa;prav po stisku tla&#x10d;&#xed;tka Upravit komponentu a vybr&#xe1;n&#xed;m pot&#x159;ebn&#xe9; komponenty pomoc&#xed; my&#x161;i. Smaz&#xe1;n&#xed; je pot&#xe9; provedeno po stisku tla&#x10d;&#xed;tka Smazat prvek.&lt;/p&gt; &lt;h3&gt;Re&#x17e;im &#xfa;pravy&lt;/h3&gt; &lt;p&gt;Re&#x17e;im &#xfa;prav d&#xe1;le nab&#xed;z&#xed; jednoduch&#xe9; upravov&#xe1;n&#xed; ji&#x17e; vlo&#x17e;en&#xfd;ch komponent. Po vybr&#xe1;n&#xed; komponenty je mo&#x17e;n&#xe9; tah&#xe1;n&#xed;m my&#x161;i upravit um&#xed;st&#x11b;n&#xed; jednotliv&#xfd;ch bod&#x16f; komponenty a t&#xed;m zm&#x11b;nit velikost, p&#x159;&#xed;padn&#x11b; um&#xed;st&#x11b;n&#xed;. Dvojklikem na danou komponentu v re&#x17e;imu &#xfa;prav je tak&#xe9; mo&#x17e;n&#xe9; zm&#x11b;nit barvu a jm&#xe9;no. &#xda;pravy jsou dokon&#x10d;eny a prom&#xed;tnuty do datab&#xe1;ze po stisku tla&#x10d;&#xed;tka Ukon&#x10d;it &#xfa;pravy. K dispozici je tak&#xe9; mo&#x17e;nost smaz&#xe1;n&#xed; cel&#xe9; mapy po stistku tla&#x10d;&#xed;tka Vymazat mapu. Je nutn&#xe9; v&#x161;ak m&#xed;t na pam&#x11b;ti, &#x17e;e pro zachov&#xe1;n&#xed; referen&#x10d;n&#xed; integrity jsou v tomto p&#x159;&#xed;pad&#x11b; smaz&#xe1;ny v&#x161;echny &#x10d;&#xe1;sti datab&#xe1;ze vztahuj&#xed;c&#xed; se k map&#x11b;.&lt;/p&gt; &lt;/html&gt; "/>
+            <Property name="verticalAlignment" type="int" value="1"/>
+            <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[850, 600]"/>
+            </Property>
+            <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[850, 600]"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[850, 900]"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
